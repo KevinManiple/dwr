@@ -11,6 +11,10 @@
       <param name="delay" value="200"/>
     </filter>
     -->
+    <!-- my -->
+    <create creator="new">
+      <param name="class" value="com.example.dwr.my.SayHi"/>
+    </create>
 
     <!-- intro - for the test on index.html -->
     <create creator="new">
